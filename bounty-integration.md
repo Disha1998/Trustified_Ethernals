@@ -20,11 +20,11 @@
 
 ## List of Bounties implemented: 
 
-**⭓  Polygon with Spheron:** We have used Polygon Mumbai Testnet for deploying smart contracts of 
+**Polygon with Spheron:** We have used Polygon Mumbai Testnet for deploying smart contracts of 
 **1) Escrow Agreement**
 **2) Chainklink VRF**
 **3) Chainlink Price Feed.** 
-**⚫  Spheron:** We have used Spheron Decentralized cloud to host our Dapp using Pinta storage integration of Spheron. 
+**Spheron:** We have used Spheron Decentralized cloud to host our Dapp using Pinta storage integration of Spheron. 
 
 [Dapp url]:(https://trustified-dapp-nxnss6.argoapp.io/).
 
@@ -54,7 +54,7 @@ https://github.com/Trustified-Network/Trustified_Ethernals/blob/master/src/modal
 https://github.com/Trustified-Network/Trustified_Ethernals/blob/master/src/context/HyphenBridgeContext.js
 
 
-**Superfluid:** Using Superfluid to help individual/business owners get subscription fees for their products and services for particular periods such as 1 Month, 3 Months or 6 Months and streasend funds using superfluid money streaming service.
+**Superfluid:** Using Superfluid to help individual/business owners get subscription fees for their products and services for particular periods such as 1 Month, 3 Months or 6 Months and  stream funds using superfluid money streaming service.
 
 ## Superfluid Implementation: 
 https://github.com/Trustified-Network/Trustified_Ethernals/blob/master/src/context/SuperfluidContext.js
